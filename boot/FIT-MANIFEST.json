@@ -1,0 +1,26 @@
+[
+ {
+  "node": "fdt",
+  "type": "flat_dt",
+  "compression": "none",
+  "offset": 2048,
+  "size": 36917,
+  "file": "fdt.bin"
+ },
+ {
+  "node": "kernel",
+  "type": "kernel",
+  "compression": "none",
+  "offset": 39424,
+  "size": 3236704,
+  "file": "kernel.bin"
+ },
+ {
+  "node": "resource",
+  "type": "multi",
+  "compression": "none",
+  "offset": 3276288,
+  "size": 810496,
+  "file": "resource.bin"
+ }
+]

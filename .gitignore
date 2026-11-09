@@ -1,0 +1,15 @@
+# Raw firmware trees and transient build artefacts (not part of the source release)
+rootfs/
+boot/*.bin
+boot/*.img
+uboot/*.bin
+uboot/*.img
+*.log
+progress-*.txt
+decompile.log
+kernel-decompile.log
+kernel-fix.log
+kernel-run*.log
+*.swu
+*.img
+*.tar

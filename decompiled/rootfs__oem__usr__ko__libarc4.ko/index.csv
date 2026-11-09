@@ -1,0 +1,3 @@
+name,address,size,lines,status
+arc4_setkey,00010050,74,36,ok
+arc4_crypt,0001009a,98,40,ok

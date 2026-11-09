@@ -1,0 +1,141 @@
+k3api:
+    branch:dev-028-s1max-0589c5f7
+    commit:2fa3acb4
+k3c:
+    branch:refactor/s1cv2_clean
+    commit:72994be3
+k3ui:
+    branch:dev031-2725
+    commit:2e07fe0d
+engineMode:
+    branch:support_mes
+    commit:c6cfe433
+gkcam:
+    branch:dev-028
+    commit:8b64b8a3
+printercfg:
+    branch:dev
+    commit:4161a5fa
+version: 2.7.2.7
+ 
+rv1106_image: 
+ 
+project docs/
+d4689f71
+
+project docs/en/ipc/
+7a379727
+
+project docs/zh/ipc/
+7a379727
+
+project media/
+e41487d5
+
+project media/avs/
+997ea307
+
+project media/cfg/
+3d791928
+
+project media/common_algorithm/common_algorithm/
+d2ac9f45
+
+project media/iva/
+257e142a
+
+project media/iva/iva/
+c8ebe286
+
+project media/ive/
+95489ddb
+
+project media/ive/ive/
+004789cc
+
+project media/rockit/rockit/
+d9f10d9d
+
+project media/samples/
+6295febf
+
+project media/security/librkcrypto/
+63bd6d41
+
+project media/sysutils/
+154af4ad
+
+project project/
+2a98ee49
+
+project project/app/component/lvgl/
+ad49c02e
+
+project project/app/component/lvgl/lvgl/
+5d59b45c
+
+project project/app/component/rkadk/
+b7a1d3e9
+
+project project/app/component/rkadk/rkadk/
+5303edf4
+
+project project/app/component/rkfsmk/
+b7af6331
+
+project project/app/component/rkfsmk/rkfsmk/
+e8c61ad8
+
+project project/app/component/third_libs/
+9b6b5e5c
+
+project project/app/ipcweb/
+5fef1330
+
+project project/app/ipcweb/ipcweb-backend/
+bcced5cd
+
+project project/app/rkipc/
+1c0b08ca
+
+project project/app/rkipc/rkipc/
+9eb62838
+
+project project/app/wifi_app/
+00dc5059
+
+project project/cfg/
+675f914e
+
+project sysdrv/
+4ce64e06
+
+project sysdrv/cfg/
+80d08d6c
+
+project sysdrv/drv_ko/
+efb80fd1
+
+project sysdrv/drv_ko/motor/
+6a0708df
+
+project sysdrv/source/kernel/
+6cecb776
+
+project sysdrv/source/uboot/rkbin/
+b957c293
+
+project sysdrv/source/uboot/u-boot/
+f616e842
+
+project sysdrv/tools/board/idb_bootconfig/
+13aa8b83
+
+project tools/
+96a41992
+
+project tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/
+181f2585
+
+project tools/windows/Rockchip_AVS_tool/
+4127adb1

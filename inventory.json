@@ -1,0 +1,2306 @@
+[
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 10887316,
+  "path": "rootfs/ac_lib/lib/third_lib/libavcodec.so.59.37.100"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 6032184,
+  "path": "rootfs/ac_lib/lib/qt/lib/libQt5Core.so.5"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 5361952,
+  "path": "rootfs/ac_lib/lib/qt/lib/libQt5Widgets.so.5"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 5271580,
+  "path": "rootfs/ac_lib/lib/qt/lib/libQt5Gui.so.5"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 3486000,
+  "path": "rootfs/system/bin/gdb"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 3255620,
+  "path": "rootfs/ac_lib/lib/third_lib/libavfilter.so.8.44.100"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 2241244,
+  "path": "rootfs/ac_lib/lib/third_lib/libkvsCommonLws.so.1.5.2"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 2174988,
+  "path": "rootfs/ac_lib/lib/third_lib/libavformat.so.59.27.100"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 2103548,
+  "path": "rootfs/ac_lib/lib/openssl/lib/libcrypto.so.1.1"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 2085368,
+  "path": "rootfs/oem/usr/lib/librkAVS_genLut.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 1714584,
+  "path": "rootfs/oem/usr/lib/librockit_full.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 1677488,
+  "path": "rootfs/ac_lib/lib/third_lib/libx264.so.164"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 1622172,
+  "path": "rootfs/oem/usr/lib/librkaiq.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 1515536,
+  "path": "rootfs/oem/usr/ko/8189fs.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 1405244,
+  "path": "rootfs/oem/usr/ko/8188fu.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 1369548,
+  "path": "rootfs/oem/usr/ko/ATBM6x6x_wifi_sdio.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 1368544,
+  "path": "rootfs/oem/usr/ko/RTL8723DS.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 1265228,
+  "path": "rootfs/ac_lib/lib/qt/lib/libQt5Network.so.5"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 1042472,
+  "path": "rootfs/ac_lib/lib/third_lib/libglib-2.0.so.0.7000.4"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 1013428,
+  "path": "rootfs/system/lib/libstdc++.so.6.0.25"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 988448,
+  "path": "rootfs/oem/usr/lib/librockit.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 970004,
+  "path": "rootfs/ac_lib/lib/third_lib/libagora-rtc-sdk.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 872248,
+  "path": "rootfs/ac_lib/lib/qt/plugins/platforms/libqlinuxfb.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 856704,
+  "path": "rootfs/oem/usr/lib/librockiva.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 818212,
+  "path": "rootfs/system/usr/libexec/bluetooth/bluetoothd"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 781820,
+  "path": "rootfs/oem/usr/lib/librkAVS_genStitch.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 777556,
+  "path": "rootfs/ac_lib/lib/qt/plugins/platforms/libqvnc.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 727904,
+  "path": "rootfs/ac_lib/lib/qt/plugins/platforms/libqoffscreen.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 722208,
+  "path": "rootfs/system/usr/sbin/e2fsck"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 647612,
+  "path": "rootfs/system/usr/bin/iperf"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 604932,
+  "path": "rootfs/oem/usr/bin/rkipc"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 601524,
+  "path": "rootfs/ac_lib/lib/third_lib/libavutil.so.57.28.100"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 599904,
+  "path": "rootfs/oem/usr/ko/ssv6x5x.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 573060,
+  "path": "rootfs/ac_lib/lib/openssl/bin/openssl"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 572148,
+  "path": "rootfs/oem/usr/lib/librkdemuxer.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 559324,
+  "path": "rootfs/oem/usr/ko/atbm603x_.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 506820,
+  "path": "rootfs/oem/usr/ko/mpp_vcodec.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 504436,
+  "path": "rootfs/system/usr/bin/hostapd"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 497960,
+  "path": "rootfs/oem/usr/lib/librkmuxer.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 465016,
+  "path": "rootfs/oem/usr/lib/librkaudio_detect.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 461728,
+  "path": "rootfs/oem/usr/lib/librockit_tiny.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 461188,
+  "path": "rootfs/system/bin/busybox"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 458644,
+  "path": "rootfs/system/usr/bin/wpa_supplicant"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 457024,
+  "path": "rootfs/ac_lib/lib/openssl/lib/libssl.so.1.1"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 450528,
+  "path": "rootfs/ac_lib/lib/curl/lib/libcurl.so.4"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 448352,
+  "path": "rootfs/system/usr/sbin/mke2fs"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 427980,
+  "path": "rootfs/system/lib/libuClibc-1.0.31.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 419768,
+  "path": "rootfs/ac_lib/lib/third_lib/libswscale.so.6.7.100"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 415528,
+  "path": "rootfs/system/usr/sbin/tune2fs"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 344600,
+  "path": "rootfs/ac_lib/lib/qt/lib/libQt5PrintSupport.so.5"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 338948,
+  "path": "rootfs/oem/usr/ko/mac80211.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 321820,
+  "path": "rootfs/system/usr/sbin/resize2fs"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 312752,
+  "path": "rootfs/system/usr/sbin/dumpe2fs"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 312680,
+  "path": "rootfs/oem/usr/ko/ipv6.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 290944,
+  "path": "rootfs/ac_lib/lib/qt/lib/libQt5Svg.so.5"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 276584,
+  "path": "rootfs/ac_lib/lib/v4l-utils/bin/v4l2-ctl"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 259784,
+  "path": "rootfs/system/usr/bin/dnsmasq"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 256264,
+  "path": "rootfs/system/usr/sbin/e2undo"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 253404,
+  "path": "rootfs/system/bin/gdbserver"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 251180,
+  "path": "rootfs/oem/usr/lib/libiconv.so.2.6.1"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 247072,
+  "path": "rootfs/ac_lib/lib/third_lib/libdbus-1.so.3.19.14"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 245016,
+  "path": "rootfs/ac_lib/lib/third_bin/ffmpeg"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 243876,
+  "path": "rootfs/system/usr/sbin/badblocks"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 239724,
+  "path": "rootfs/system/usr/sbin/e2freefrag"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 238692,
+  "path": "rootfs/ac_lib/lib/third_lib/libpcre.so.1.2.13"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 236644,
+  "path": "rootfs/system/bin/stressapptest"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 225716,
+  "path": "rootfs/oem/usr/ko/cfg80211.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 223360,
+  "path": "rootfs/ac_lib/lib/qt/plugins/imageformats/libqjpeg.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 221628,
+  "path": "rootfs/system/usr/bin/hcidump"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 206656,
+  "path": "rootfs/ac_lib/lib/curl/bin/curl"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 204656,
+  "path": "rootfs/oem/usr/lib/librkaudio.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 201196,
+  "path": "rootfs/oem/usr/ko/video_rkisp.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 199972,
+  "path": "rootfs/oem/usr/bin/rkisp_demo"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 193248,
+  "path": "rootfs/ac_lib/lib/third_lib/libbluetooth.so.3.19.6"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 191300,
+  "path": "rootfs/system/usr/bin/wpa_supplicant_nl80211_rtk"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 190912,
+  "path": "rootfs/ac_lib/lib/v4l-utils/lib/libv4lconvert.so.0"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 186468,
+  "path": "rootfs/oem/usr/lib/libaec_bf_process.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 183136,
+  "path": "rootfs/system/lib/libblkid.so.1.1.0"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 179036,
+  "path": "rootfs/oem/usr/ko/video_rkcif.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 178592,
+  "path": "rootfs/system/bin/udevadm"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 177028,
+  "path": "rootfs/oem/usr/lib/librockchip_mpp.so.0"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 172636,
+  "path": "rootfs/ac_lib/lib/third_bin/zip"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 171952,
+  "path": "rootfs/oem/usr/ko/rockit.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 170436,
+  "path": "rootfs/system/sbin/udevd"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 169408,
+  "path": "rootfs/ac_lib/lib/third_bin/dbus-daemon"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 158344,
+  "path": "rootfs/oem/usr/lib/librga.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 155268,
+  "path": "rootfs/oem/usr/ko/atbm6041_wifi_sdio.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 150988,
+  "path": "rootfs/oem/usr/lib/librkrawstream.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 149156,
+  "path": "rootfs/system/usr/lib/librkwifibt.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 149036,
+  "path": "rootfs/ac_lib/lib/third_bin/unzip"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 147636,
+  "path": "rootfs/system/usr/bin/hciconfig"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 141048,
+  "path": "rootfs/oem/usr/lib/librknnmrt.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 137580,
+  "path": "rootfs/ac_lib/lib/third_bin/rtwpriv"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 137092,
+  "path": "rootfs/ac_lib/lib/third_bin/ffprobe"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 136660,
+  "path": "rootfs/ac_lib/lib/third_bin/btmgmt"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 133568,
+  "path": "rootfs/oem/usr/bin/sample_demo_vi_venc_stresstest"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 128928,
+  "path": "rootfs/ac_lib/lib/sysstat/bin/sar"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 128296,
+  "path": "rootfs/ac_lib/lib/third_lib/libexpat.so.1.8.7"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 124476,
+  "path": "rootfs/system/lib/libgcc_s.so.1"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 121248,
+  "path": "rootfs/oem/usr/bin/sample_multi_vi_avs_osd_venc"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 121216,
+  "path": "rootfs/oem/usr/bin/sample_demo_vi_avs_venc_stresstest"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 121212,
+  "path": "rootfs/oem/usr/bin/sample_demo_vi_venc"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 119524,
+  "path": "rootfs/oem/usr/lib/librve.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 117084,
+  "path": "rootfs/oem/usr/bin/sample_demo_vi_avs_venc"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 116504,
+  "path": "rootfs/oem/usr/lib/librkaudio_common.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 115700,
+  "path": "rootfs/oem/usr/ko/rga3.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 112980,
+  "path": "rootfs/oem/usr/bin/sample_vi_vpss_osd_venc"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 112932,
+  "path": "rootfs/oem/usr/bin/sample_rgn_stresstest"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 108576,
+  "path": "rootfs/oem/usr/bin/sample_venc_stresstest"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 100580,
+  "path": "rootfs/oem/usr/lib/librkfsmk.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 100348,
+  "path": "rootfs/oem/usr/bin/sample_demo_dual_camera"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 96232,
+  "path": "rootfs/oem/usr/bin/sample_demo_multi_camera_eptz"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 96124,
+  "path": "rootfs/ac_lib/lib/third_bin/logrotate"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 95836,
+  "path": "rootfs/ac_lib/lib/zlib/lib/libz.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 95800,
+  "path": "rootfs/system/usr/bin/wpa_supplicant_rtk"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 87544,
+  "path": "rootfs/system/usr/bin/hcitool"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 87436,
+  "path": "rootfs/system/usr/bin/hciattach"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 84176,
+  "path": "rootfs/oem/usr/bin/mpi_enc_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 79504,
+  "path": "rootfs/oem/usr/bin/simple_vi_eptz_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 79492,
+  "path": "rootfs/ac_lib/lib/third_lib/libswresample.so.4.7.100"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 79492,
+  "path": "rootfs/oem/usr/bin/simple_vi_venc_rtsp"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 75700,
+  "path": "rootfs/oem/usr/bin/rk_mpi_avs_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 75348,
+  "path": "rootfs/oem/usr/lib/libz.so.1"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 69824,
+  "path": "rootfs/system/usr/sbin/fsck"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 67628,
+  "path": "rootfs/oem/usr/bin/rk_mpi_rgn_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 63780,
+  "path": "rootfs/ac_lib/lib/v4l-utils/lib/libv4l2.so.0"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 63352,
+  "path": "rootfs/oem/usr/bin/rk_mpi_vi_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 61332,
+  "path": "rootfs/oem/usr/ko/hichannel.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 59908,
+  "path": "rootfs/ac_lib/lib/firmware/bin/rtk_hciattach"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 59372,
+  "path": "rootfs/ac_lib/lib/third_lib/libpopt.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 59372,
+  "path": "rootfs/ac_lib/lib/third_lib/libpopt.so.0"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 59372,
+  "path": "rootfs/ac_lib/lib/third_lib/libpopt.so.1.19"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 57436,
+  "path": "rootfs/system/usr/sbin/blkid"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 55156,
+  "path": "rootfs/oem/usr/bin/rk_mpi_venc_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 55108,
+  "path": "rootfs/oem/usr/bin/rk_mpi_vpss_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 54936,
+  "path": "rootfs/oem/usr/bin/modetest"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 51036,
+  "path": "rootfs/system/lib/libitm.so.1.0.0"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 50948,
+  "path": "rootfs/ac_lib/lib/sysstat/bin/pidstat"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 50784,
+  "path": "rootfs/system/usr/bin/wpa_cli"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 47028,
+  "path": "rootfs/ac_lib/lib/third_lib/libavdevice.so.59.7.100"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 46888,
+  "path": "rootfs/system/lib/libkmod.so.2.3.7"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 46812,
+  "path": "rootfs/ac_lib/lib/sysstat/bin/mpstat"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 46800,
+  "path": "rootfs/ac_lib/lib/sysstat/bin/iostat"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 46692,
+  "path": "rootfs/oem/usr/lib/libdrm.so.2.4.0"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 43672,
+  "path": "rootfs/system/usr/bin/rk_ota"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 42824,
+  "path": "rootfs/ac_lib/lib/v4l-utils/bin/media-ctl"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 42740,
+  "path": "rootfs/oem/usr/bin/rk_mpi_dup_venc_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 42464,
+  "path": "rootfs/ac_lib/lib/third_lib/libpostproc.so.56.6.100"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 39160,
+  "path": "rootfs/oem/usr/ko/rknpu.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 38656,
+  "path": "rootfs/oem/usr/bin/dumpsys"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 35604,
+  "path": "rootfs/oem/usr/ko/rve.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 35476,
+  "path": "rootfs/system/usr/bin/wpa_cli_rtk"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 34916,
+  "path": "rootfs/oem/usr/ko/hci_uart.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 34652,
+  "path": "rootfs/oem/usr/bin/sample_avs_stresstest"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 34548,
+  "path": "rootfs/oem/usr/bin/rk_mpi_ai_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 32704,
+  "path": "rootfs/system/lib/ld-uClibc-1.0.31.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 30520,
+  "path": "rootfs/oem/usr/bin/sample_vpss_stresstest"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 30516,
+  "path": "rootfs/oem/usr/bin/sample_multi_vi_avs"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 30448,
+  "path": "rootfs/oem/usr/bin/sample_mulit_isp_stresstest"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 30436,
+  "path": "rootfs/oem/usr/bin/sample_isp_stresstest"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 30424,
+  "path": "rootfs/oem/usr/bin/rk_mpi_vi_dup_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 30172,
+  "path": "rootfs/system/usr/lib/libintl.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 30172,
+  "path": "rootfs/system/usr/lib/libintl.so.8"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 30172,
+  "path": "rootfs/system/usr/lib/libintl.so.8.1.6"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 30116,
+  "path": "rootfs/system/usr/sbin/e4crypt"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 28288,
+  "path": "rootfs/ac_lib/lib/tslib/bin/ts_calibrate"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 26444,
+  "path": "rootfs/system/usr/bin/rkwifi_server"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 26288,
+  "path": "rootfs/oem/usr/bin/rk_mpi_ao_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 26268,
+  "path": "rootfs/ac_lib/lib/qt/plugins/platforms/libqminimal.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 26120,
+  "path": "rootfs/oem/usr/lib/libivs.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 26096,
+  "path": "rootfs/ac_lib/lib/wireless_tools/lib/libiw.so.29"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 26072,
+  "path": "rootfs/oem/usr/lib/librksysutils.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 26044,
+  "path": "rootfs/oem/usr/lib/libwpa_client.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 24140,
+  "path": "rootfs/ac_lib/lib/tslib/bin/ts_test_mt"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 23388,
+  "path": "rootfs/oem/usr/ko/os04a10.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 22564,
+  "path": "rootfs/oem/usr/ko/gspca_main.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 22228,
+  "path": "rootfs/oem/usr/bin/sample_multi_vi"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 22220,
+  "path": "rootfs/oem/usr/bin/sample_vi"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 22128,
+  "path": "rootfs/ac_lib/lib/qt/plugins/imageformats/libqgif.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 22124,
+  "path": "rootfs/oem/usr/bin/rk_mpi_tde_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 22096,
+  "path": "rootfs/system/usr/sbin/uuidd"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 22092,
+  "path": "rootfs/oem/usr/bin/sample_avs"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 22072,
+  "path": "rootfs/system/usr/lib/libwpa_client.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 22020,
+  "path": "rootfs/ac_lib/lib/wireless_tools/bin/iwlist"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 21984,
+  "path": "rootfs/oem/usr/bin/rk_watchdog_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 21976,
+  "path": "rootfs/oem/usr/bin/rk_event_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 21972,
+  "path": "rootfs/oem/usr/bin/rk_pwm_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 21968,
+  "path": "rootfs/oem/usr/bin/rk_gpio_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 21964,
+  "path": "rootfs/oem/usr/bin/rk_adc_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 21964,
+  "path": "rootfs/oem/usr/bin/rk_led_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 21964,
+  "path": "rootfs/oem/usr/bin/rk_system_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 21964,
+  "path": "rootfs/oem/usr/bin/rk_time_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 21812,
+  "path": "rootfs/oem/usr/bin/rk_rve_sample_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 21696,
+  "path": "rootfs/ac_lib/lib/third_bin/dbus-send"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 19964,
+  "path": "rootfs/ac_lib/lib/tslib/bin/ts_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 19928,
+  "path": "rootfs/ac_lib/lib/tslib/bin/ts_harvest"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 18684,
+  "path": "rootfs/oem/usr/ko/sc530ai.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 18100,
+  "path": "rootfs/system/usr/bin/chattr"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 18088,
+  "path": "rootfs/ac_lib/lib/qt/plugins/imageformats/libqsvg.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 18028,
+  "path": "rootfs/oem/usr/bin/rkaiq_3A_server"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 18024,
+  "path": "rootfs/oem/usr/bin/rk_mpi_aenc_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 18020,
+  "path": "rootfs/oem/usr/bin/rk_mpi_adec_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 17972,
+  "path": "rootfs/oem/usr/bin/rgaImDemo"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 17952,
+  "path": "rootfs/oem/usr/bin/rk_mpi_af_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 17952,
+  "path": "rootfs/oem/usr/bin/sample_ai_aenc_adec_ao_stresstest"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 17920,
+  "path": "rootfs/oem/usr/bin/rk_mpi_sys_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 17896,
+  "path": "rootfs/system/bin/memtester"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 17864,
+  "path": "rootfs/ac_lib/lib/wireless_tools/bin/iwconfig"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 17776,
+  "path": "rootfs/system/usr/bin/ntpclient"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 17656,
+  "path": "rootfs/ac_lib/lib/third_bin/dbus-test-tool"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 17604,
+  "path": "rootfs/ac_lib/lib/third_bin/dbus-monitor"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 17428,
+  "path": "rootfs/oem/usr/ko/sc3336.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 17136,
+  "path": "rootfs/oem/usr/ko/gc2053.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 16756,
+  "path": "rootfs/ac_lib/lib/wireless_tools/lib/iwlib.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 16352,
+  "path": "rootfs/oem/usr/ko/sc4336.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 15812,
+  "path": "rootfs/oem/usr/ko/phy-rockchip-csi2-dphy-hw.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 15280,
+  "path": "rootfs/oem/usr/ko/gcm.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 14884,
+  "path": "rootfs/oem/usr/ko/phy-rockchip-csi2-dphy.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 14004,
+  "path": "rootfs/system/usr/bin/lsattr"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 13896,
+  "path": "rootfs/oem/usr/bin/rk_mpi_mb_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 13888,
+  "path": "rootfs/oem/usr/bin/rk_mpi_mmz_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 13844,
+  "path": "rootfs/oem/usr/bin/sample_ai_aenc"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 13820,
+  "path": "rootfs/ac_lib/lib/tslib/bin/ts_uinput"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 13820,
+  "path": "rootfs/oem/usr/bin/simple_vi_rockiva"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 13820,
+  "path": "rootfs/system/usr/bin/uuidgen"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 13796,
+  "path": "rootfs/oem/usr/bin/rk_mpi_avio_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 13796,
+  "path": "rootfs/oem/usr/bin/simple_vi_vpss_venc"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 13792,
+  "path": "rootfs/oem/usr/bin/rk_mpi_amix_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 13788,
+  "path": "rootfs/oem/usr/bin/simple_venc_osd"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 13776,
+  "path": "rootfs/oem/usr/bin/simple_vi_venc_wrap"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 13764,
+  "path": "rootfs/ac_lib/lib/wireless_tools/bin/iwevent"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 13756,
+  "path": "rootfs/ac_lib/lib/tslib/lib/libts.so.0"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 13752,
+  "path": "rootfs/oem/usr/bin/simple_vi_venc_change_resolution"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 13744,
+  "path": "rootfs/oem/usr/bin/simple_vi_venc_combo"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 13736,
+  "path": "rootfs/oem/usr/bin/simple_vi_tde"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 13700,
+  "path": "rootfs/system/usr/sbin/filefrag"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 13696,
+  "path": "rootfs/ac_lib/lib/tslib/bin/ts_verify"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 13696,
+  "path": "rootfs/oem/usr/bin/vpu_api_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 13616,
+  "path": "rootfs/ac_lib/lib/tslib/lib/ts/input.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 13588,
+  "path": "rootfs/system/lib/libatomic.so.1.2.0"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 13508,
+  "path": "rootfs/ac_lib/lib/third_bin/dbus-launch"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 12392,
+  "path": "rootfs/oem/usr/ko/rk_dvbm.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 9684,
+  "path": "rootfs/oem/usr/bin/simple_venc_jpeg"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 9680,
+  "path": "rootfs/oem/usr/lib/libsmartIr.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 9676,
+  "path": "rootfs/ac_lib/lib/tslib/bin/ts_print_mt"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 9672,
+  "path": "rootfs/oem/usr/bin/simple_vi_venc"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 9668,
+  "path": "rootfs/oem/usr/bin/mpp_info_test"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 9644,
+  "path": "rootfs/oem/usr/bin/simple_vi_rkaiq"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 9636,
+  "path": "rootfs/oem/usr/bin/simple_vi_get_frame"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 9612,
+  "path": "rootfs/oem/usr/bin/simple_adec_ao"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 9604,
+  "path": "rootfs/ac_lib/lib/tslib/bin/ts_conf"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 9604,
+  "path": "rootfs/oem/usr/bin/simple_ai"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 9596,
+  "path": "rootfs/oem/usr/bin/sample_ai"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 9584,
+  "path": "rootfs/oem/usr/bin/simple_ao"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 9580,
+  "path": "rootfs/oem/usr/bin/simple_ai_aenc"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 9572,
+  "path": "rootfs/system/usr/sbin/logsave"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 9560,
+  "path": "rootfs/ac_lib/lib/wireless_tools/bin/iwpriv"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 9544,
+  "path": "rootfs/ac_lib/lib/wireless_tools/bin/iwspy"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 9536,
+  "path": "rootfs/system/usr/bin/io"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 9528,
+  "path": "rootfs/ac_lib/lib/tslib/lib/ts/linear.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 9520,
+  "path": "rootfs/ac_lib/lib/tslib/lib/ts/evthres.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 9520,
+  "path": "rootfs/ac_lib/lib/tslib/lib/ts/median.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 9508,
+  "path": "rootfs/oem/usr/bin/simple_vi_ivs"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 9504,
+  "path": "rootfs/ac_lib/lib/tslib/lib/ts/skip.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 9500,
+  "path": "rootfs/ac_lib/lib/tslib/lib/ts/variance.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 9480,
+  "path": "rootfs/oem/usr/lib/libkms.so.1.0.0"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 9472,
+  "path": "rootfs/system/usr/bin/hcitop"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 9408,
+  "path": "rootfs/ac_lib/lib/third_bin/dbus-run-session"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 9408,
+  "path": "rootfs/ac_lib/lib/third_bin/dbus-update-activation-environment"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 9300,
+  "path": "rootfs/ac_lib/lib/third_bin/dbus-cleanup-sockets"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 8280,
+  "path": "rootfs/oem/usr/ko/gf128mul.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 5436,
+  "path": "rootfs/ac_lib/lib/tslib/lib/ts/waveshare.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 5408,
+  "path": "rootfs/system/usr/sbin/mklost+found"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 5404,
+  "path": "rootfs/ac_lib/lib/tslib/bin/ts_print"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 5404,
+  "path": "rootfs/ac_lib/lib/tslib/lib/ts/debounce.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 5404,
+  "path": "rootfs/ac_lib/lib/tslib/lib/ts/dejitter.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 5404,
+  "path": "rootfs/ac_lib/lib/tslib/lib/ts/iir.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 5404,
+  "path": "rootfs/ac_lib/lib/tslib/lib/ts/lowpass.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 5404,
+  "path": "rootfs/ac_lib/lib/tslib/lib/ts/pthres.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 5396,
+  "path": "rootfs/ac_lib/lib/tslib/lib/ts/invert.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 5384,
+  "path": "rootfs/ac_lib/lib/tslib/bin/ts_print_raw"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 5364,
+  "path": "rootfs/oem/usr/lib/libdrm_rockchip.so.1.0.0"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 5352,
+  "path": "rootfs/ac_lib/lib/tslib/bin/ts_finddev"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 5352,
+  "path": "rootfs/ac_lib/lib/tslib/lib/ts/touchkit.so"
+ },
+ {
+  "class": "ELF32",
+  "type": "EXEC",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 5320,
+  "path": "rootfs/ac_lib/lib/third_bin/channel"
+ },
+ {
+  "class": "ELF32",
+  "type": "DYN",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 5312,
+  "path": "rootfs/ac_lib/lib/third_bin/dbus-uuidgen"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 5248,
+  "path": "rootfs/oem/usr/ko/ghash-generic.ko"
+ },
+ {
+  "class": "ELF32",
+  "type": "REL",
+  "machine": "ARM",
+  "bits": 32,
+  "size": 3168,
+  "path": "rootfs/oem/usr/ko/libarc4.ko"
+ }
+]

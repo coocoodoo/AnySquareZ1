@@ -1,0 +1,14 @@
+name,address,size,lines,status
+ghash_exit_tfm,000101c0,10,12,ok
+ghash_init,000101ca,16,9,ok
+ghash_final,000101da,58,23,ok
+ghash_update,00010214,174,61,ok
+ghash_setkey,000102c2,88,41,ok
+init_module,0001031c,6,9,ok
+cleanup_module,00010328,6,9,ok
+<EXTERNAL>::crypto_register_shash,00011004,1,11,ok
+<EXTERNAL>::crypto_unregister_shash,00011008,1,11,ok
+<EXTERNAL>::kfree_sensitive,0001100c,1,11,ok
+<EXTERNAL>::memset,00011010,1,12,ok
+<EXTERNAL>::gf128mul_init_4k_lle,00011014,1,11,ok
+<EXTERNAL>::gf128mul_4k_lle,00011018,1,11,ok
